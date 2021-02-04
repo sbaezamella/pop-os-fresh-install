@@ -1,0 +1,16 @@
+alacritty
+code
+discord
+docker
+docker-compose
+insomnia
+mongodb-compass
+neofetch
+papirus-icon-theme
+pipenv
+ripgrep
+slack-desktop
+tree
+unrar
+unzip
+zoom
